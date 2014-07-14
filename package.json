@@ -1,6 +1,6 @@
 {
   "name": "ABC-notation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ABC Notation syntax highliting for Atom",
   "repository": "https://github.com/Ener-Getick/ABC-Notation",
   "license": "MIT",
