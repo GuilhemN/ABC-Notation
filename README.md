@@ -1,5 +1,7 @@
 # abc-notation package
 
-A short description of your package.
+ABC Notation syntax highlighting for atom.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Converted from [SublimeABC for Sublime Text](https://github.com/jimhawkridge/SublimeABC).
+
+> ABC notation is a simple text based music notation system often used for sharing traditional and folk music.
